@@ -1,0 +1,17 @@
+.btn{
+    background-color: rgb(186, 241, 98);
+    color: rgb(238, 135, 10);
+    /* margin:10px auto ;
+    padding-left:250px ; */
+}
+.container{
+    padding-left: 250px;
+    margin: 10px auto;
+}
+body{
+    background-color: rgb(240, 241, 239);
+}
+h1{
+    padding-left: 250px;
+    color: blueviolet;
+}
